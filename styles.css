@@ -275,9 +275,12 @@ span {
         font-size: 5rem;
     }
 
-    .home-img img{
-        width: 70vh;
-        margin-top: 4rem;
-
+    .home-img img {
+        width: 25rem;
+        height: 25rem;
+        border-radius: 50%;
+        object-fit: cover;
+        object-position: center 25%; /* sobe o rosto */
+        margin-top: 2rem;
     }
 }
