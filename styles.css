@@ -280,7 +280,7 @@ span {
         height: 25rem;
         border-radius: 50%;
         object-fit: cover;
-        object-position: center 25%; /* sobe o rosto */
+        object-position: center 10%; /* sobe o rosto */
         margin-top: 2rem;
     }
 }
